@@ -13,7 +13,7 @@ Air Guitar is an amazing script with which you can play guitar in the air. Must 
 
 5. Small Green Colored Strips of Paper Like :-
 
-![image](strips.jpg)
+![image](strips.png)
 
 
 ## How To Use
