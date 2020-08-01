@@ -1,5 +1,5 @@
-# Air-Guitar
-Air Guitar is an amazing script with which you can play guitar in the air. Must Try!
+# Air-Drum
+Air Guitar is an amazing script with which you can play Drum in the air. Must Try!
 
 ## Requirements
 
